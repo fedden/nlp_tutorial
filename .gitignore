@@ -1,0 +1,6 @@
+*.bin
+*.zip
+*.pickle
+corpora/
+resources/
+tokenizers/
