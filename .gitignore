@@ -1,6 +1,9 @@
 *.bin
 *.zip
 *.pickle
+*.txt
+*.jpg
+*.jpeg
 corpora/
 resources/
 tokenizers/
