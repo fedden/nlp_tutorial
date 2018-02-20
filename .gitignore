@@ -4,6 +4,7 @@
 *.txt
 *.jpg
 *.jpeg
+*.hdf5
 corpora/
 resources/
 tokenizers/
